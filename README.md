@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is xuxana Abitbol and I'm a cst undergraduate , from Morocco</h2>
+<h2 align="left">Hi 👋! My name is ychiby and I'm a cst undergraduate , from Morocco</h2>
 
 ###
 
