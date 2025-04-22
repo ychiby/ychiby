@@ -37,5 +37,6 @@
 
 <br clear="both">
 
-<!-- ✅ FIXED snake animation link -->
-<img src="https://raw.githubusercontent.com/ychiby/ychiby/output/github-contribution-grid-snake.svg" alt="Snake animation"
+<img src="https://raw.githubusercontent.com/ychiby/ychiby/output/snake.svg" alt="Snake animation" />
+
+###
