@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
@@ -35,6 +37,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ychiby/ychiby/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- ✅ FIXED snake animation link -->
+<img src="https://raw.githubusercontent.com/ychiby/ychiby/output/github-contribution-grid-snake.svg" alt="Snake animation"
